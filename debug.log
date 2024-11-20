@@ -1,0 +1,32 @@
+[0711/143913.754:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/144913.755:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/144913.756:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/145413.755:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/150913.759:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/152413.760:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/153913.762:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/155413.764:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/160913.765:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/162413.765:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/163913.767:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/165413.768:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/170913.770:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/172413.772:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/173913.773:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/175413.774:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/180913.776:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/182413.777:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/183913.779:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/185413.781:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/190913.782:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/192413.783:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/193913.785:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0711/195413.786:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1223/085820.371:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/222941.072:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0106/131008.386:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0107/105801.195:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/111248.310:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0118/110432.793:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0120/085303.976:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0122/103001.345:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
